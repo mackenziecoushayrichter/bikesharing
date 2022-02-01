@@ -12,3 +12,11 @@ Link to Tableau Dashboard
 ![](images/rides_per_bike.png)
 * Below shows the number total number of people from each gender that used the service.
 ![](https://github.com/mackenziecoushayrichter/bikesharing/blob/main/images/Gender_Breakdown.png)
+* These two visuals below show the length of time bikes were checked out by each user.  Then taken a step further and broke it down by gender.  It shows that the majority of trips under 1 hour were taken by Men, which the longer trips lasting more than an hour were taken by women.
+![](images/checkout_times.png)
+* Below are the Trips taken by weekday, by hour. The data shows us primarily that the most trips are taken on weekedays during work commuting times (7am-9am & 5pm-7pm). Then on the weekends during the afternoon.
+![](images/trips_day_hour.png)
+* Below shows a breakout of subscribers vs non suscribers.  It is found that non subscribers take the most of their rides on the weekends (sat and sunday).  Male subscribers take substatnitally more rides than Female subscribers. Suscribers also take more rides during the week most likely for commuting to work.
+![](images/trips_gender_day_usertime.png)
+* Below shows a breakout of the number of rides taken per hour by Gender.  The data shows that primarily Men take more rides during those commuting hours on weekedays in the mornings.   and late afternoon.  THese were the most popular times for women as well.
+![](images/trips_weekday_hour_gender.png)
