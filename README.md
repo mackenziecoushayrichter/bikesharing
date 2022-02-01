@@ -20,3 +20,6 @@ Link to Tableau Dashboard
 ![](images/trips_gender_day_usertime.png)
 * Below shows a breakout of the number of rides taken per hour by Gender.  The data shows that primarily Men take more rides during those commuting hours on weekedays in the mornings.   and late afternoon.  THese were the most popular times for women as well.
 ![](images/trips_weekday_hour_gender.png)
+## Summary
+* In summary this bike program would potentially work well in more urban cities where people are using it to commute to work instead of driving.  It may struggle in more suburban areas where everyone owns a car.
+* This program would also work well in locations with a lot of tourism, as it can be used as a way tourists can see more of the city without having to drive everywhere.
