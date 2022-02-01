@@ -11,4 +11,4 @@ Link to Tableau Dashboard
 * This analysis below shows the number of times each bike was used.
 ![](images/rides_per_bike.png)
 * Below shows the number total number of people from each gender that used the service.
-![](images/(Gender_Breakdown.png)
+![](https://github.com/mackenziecoushayrichter/bikesharing/blob/main/images/Gender_Breakdown.png)
